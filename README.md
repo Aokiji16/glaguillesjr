@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Setup Basic home Lab Running Active Directory(Oracle VirtualBox) | Add Users with Powershell</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -12,7 +12,7 @@
 <h2>📄 Certifications</h2>
 
 - <b>Google Cyber Security</b>
-- <b>Cisco Certified Network Associate Bootcamp</b>
+- <b>Cisco Certified Network Associate Bootcamp(200-125)</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
