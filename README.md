@@ -10,6 +10,9 @@
 
 - <b>Setup Basic home Lab Running Active Directory(Oracle VirtualBox) | Add Users with Powershell</b>
   - [Active Directory Home Lab](https://github.com/Aokiji16/Active-Directory-Home-Lab)
+- <b>File Permissions in Linux guide</b>
+  - [File Permissions in Linux](https://github.com/glaguillesjr/File-permissions-in-Linux)
+  
 
 <h2>📄 Certifications</h2>
 
