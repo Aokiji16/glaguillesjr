@@ -4,8 +4,8 @@
 
 - <b>Running SIEM Tools using Microsoft Azure Sentinel</b>
   - [Active Directory Home Lab](https://github.com/Aokiji16/Active-Directory-Home-Lab)
-- <b>Setup Basic home Lab Running Active Directory(Oracle VirtualBox) | Add Users with Powershell</b>
-  - [Active Directory Home Lab](https://github.com/glaguillesjr/My-Sample-Incident-Report)
+- <b>My Sample Incident Report</b>
+  - [My Sample Incident Report](https://github.com/glaguillesjr/My-Sample-Incident-Report)
 - <b>File Permissions in Linux guide</b>
   - [File Permissions in Linux](https://github.com/glaguillesjr/File-permissions-in-Linux)
   
